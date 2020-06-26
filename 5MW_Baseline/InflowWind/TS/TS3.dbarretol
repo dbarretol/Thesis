@@ -1,0 +1,2 @@
+          URef            - Mean (total) wind speed at the reference height [m/s]
+default        ZJetMax         - Jet height [m] (used only for JET wind profile, valid 70-490 m)

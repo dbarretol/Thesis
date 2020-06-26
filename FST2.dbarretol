@@ -1,0 +1,4 @@
+"    InflowFile      - Name of file containing inflow wind input parameters (quoted string)
+"5MW_Baseline/NRELOffshrBsline5MW_OC3Monopile_AeroDyn15.dat"    AeroFile        - Name of file containing aerodynamic input parameters (quoted string)
+"5MW_Baseline/NRELOffshrBsline5MW_OC3Monopile_ServoDyn.dat"    ServoFile       - Name of file containing control and electrical-drive input parameters (quoted string)
+"5MW_Baseline/HydroData/
